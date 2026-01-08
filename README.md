@@ -42,5 +42,6 @@ I'm always excited to collaborate on interesting projects or discuss technology.
 
 - 📧 Email: zainab19604khalil@gmail.com
 - 💼 LinkedIn: [Zainab Khalil](https://www.linkedin.com/in/zainab-khalil-332b1831b/)
+- Portfolio website: https://zk19604.github.io/portfolio/
 
 ---
