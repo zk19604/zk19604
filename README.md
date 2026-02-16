@@ -6,7 +6,7 @@
 const zainab = {
     about : "Junior Comp Sci Student",
     education: "FAST NUCES - BS Computer Science",
-    gpa: "3.70/4.0",
+    gpa: "3.74/4.0",
     currentFocus: ["Web Dev", "Android Development"]
 };
 ```
