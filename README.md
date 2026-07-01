@@ -12,7 +12,16 @@ const zainab = {
 ```
 
 ---
+<!-- GitHub Contribution Snake Animation -->
+## My Contribution Graph
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zk19604/zk19604/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zk19604/zk19604/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/zk19604/zk19604/blob/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
 ## 💻 Tech Stack
 
 ### Languages
