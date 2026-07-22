@@ -4,7 +4,7 @@
 
 ```javascript
 const zainab = {
-    about : "Junior Comp Sci Student",
+    about : "Senior Comp Sci Student",
     education: "FAST NUCES - BS Computer Science",
     gpa: "3.78/4.0",
     currentFocus: ["Web Dev", "App Development", "AI/ML", "Generative AI"]
