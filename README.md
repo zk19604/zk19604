@@ -52,8 +52,7 @@ const zainab = {
 
 I'm always excited to collaborate on interesting projects or discuss technology. Feel free to reach out!
 
-- 📧 Email: zainab19604khalil@gmail.com
-- 💼 LinkedIn: [Zainab Khalil](https://www.linkedin.com/in/zainab-khalil-332b1831b/)
-- Portfolio website: https://zk19604.github.io/portfolio/
-- 3d fun portfolio : https://portfolio-3d-nu-six.vercel.app/
-- another portfolio i am proud of : https://portfolio-2-rho.vercel.app/
+- Email: zainab19604khalil@gmail.com
+- LinkedIn: [Zainab Khalil](https://www.linkedin.com/in/zainab-khalil-332b1831b/)
+- Portfolio : https://zk19604.github.io/portfolio/
+- Blog : https://zk19604-blog.vercel.app/ 
